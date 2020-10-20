@@ -1,0 +1,11 @@
+F:\hiru\works\C#\cp\2D Array - DS\2D Array - DS\bin\Debug\netcoreapp3.0\2D Array - DS.exe
+F:\hiru\works\C#\cp\2D Array - DS\2D Array - DS\bin\Debug\netcoreapp3.0\2D Array - DS.deps.json
+F:\hiru\works\C#\cp\2D Array - DS\2D Array - DS\bin\Debug\netcoreapp3.0\2D Array - DS.runtimeconfig.json
+F:\hiru\works\C#\cp\2D Array - DS\2D Array - DS\bin\Debug\netcoreapp3.0\2D Array - DS.runtimeconfig.dev.json
+F:\hiru\works\C#\cp\2D Array - DS\2D Array - DS\bin\Debug\netcoreapp3.0\2D Array - DS.dll
+F:\hiru\works\C#\cp\2D Array - DS\2D Array - DS\bin\Debug\netcoreapp3.0\2D Array - DS.pdb
+F:\hiru\works\C#\cp\2D Array - DS\2D Array - DS\obj\Debug\netcoreapp3.0\2D Array - DS.AssemblyInfoInputs.cache
+F:\hiru\works\C#\cp\2D Array - DS\2D Array - DS\obj\Debug\netcoreapp3.0\2D Array - DS.AssemblyInfo.cs
+F:\hiru\works\C#\cp\2D Array - DS\2D Array - DS\obj\Debug\netcoreapp3.0\2D Array - DS.dll
+F:\hiru\works\C#\cp\2D Array - DS\2D Array - DS\obj\Debug\netcoreapp3.0\2D Array - DS.pdb
+F:\hiru\works\C#\cp\2D Array - DS\2D Array - DS\obj\Debug\netcoreapp3.0\2D Array - DS.csprojAssemblyReference.cache
